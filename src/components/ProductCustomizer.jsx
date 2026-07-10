@@ -10,7 +10,7 @@ const products = [
   { id: 'camiseta', name: 'Camiseta', price: 24900, image: 'https://images.unsplash.com/photo-1521572163474-6864f9cf17ab?w=800&h=800&fit=crop&crop=center' },
   { id: 'mug', name: 'Mug / Taza', price: 14900, image: 'https://images.unsplash.com/photo-1514228742587-6b1558fcca3d?w=800&h=800&fit=crop&crop=center' },
   { id: 'gorra', name: 'Gorra', price: 18900, image: 'https://images.unsplash.com/photo-1588850561407-ed78c282e89b?w=800&h=800&fit=crop&crop=center' },
-  { id: 'cojin', name: 'Cojín', price: 29900, image: 'https://images.unsplash.com/photo-1584100936595-c0654b55a2e6?w=800&h=800&fit=crop&crop=center' }
+  { id: 'cojin', name: 'Cojín', price: 29900, image: 'https://images.unsplash.com/photo-1691256676366-370303d55b61?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D' }
 ];
 
 const colors = [

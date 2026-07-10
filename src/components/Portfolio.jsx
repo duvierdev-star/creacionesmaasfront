@@ -51,7 +51,7 @@ const portfolioItems = [
     technique: 'Sublimación Completa',
     likes: 112,
     color: '#2eb4e7',
-    image: 'https://images.unsplash.com/photo-1584100936595-c0654b55a2e6?w=600&h=600&fit=crop&crop=center',
+    image: 'https://images.unsplash.com/photo-1691256676366-370303d55b61?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D',
     date: '2026-02-05',
     price: '$29.900',
     rating: 4.9,
